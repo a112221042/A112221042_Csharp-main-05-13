@@ -29,3 +29,13 @@ D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pa
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Form1.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Properties.Resources.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csproj.GenerateResource.Cache
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-5\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.exe.config
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-5\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.exe
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-5\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.pdb
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csproj.AssemblyReference.cache
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Form1.resources
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Properties.Resources.resources
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csproj.GenerateResource.cache
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csproj.CoreCompileInputs.cache
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.exe
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-5\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.pdb

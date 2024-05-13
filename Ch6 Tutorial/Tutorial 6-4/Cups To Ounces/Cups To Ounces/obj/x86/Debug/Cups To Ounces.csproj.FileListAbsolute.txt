@@ -31,3 +31,13 @@ D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cu
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Form1.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Properties.Resources.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csproj.GenerateResource.Cache
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-4\Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.exe.config
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-4\Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.exe
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-4\Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.pdb
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csproj.AssemblyReference.cache
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Form1.resources
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Properties.Resources.resources
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csproj.GenerateResource.cache
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csproj.CoreCompileInputs.cache
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.exe
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-4\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.pdb

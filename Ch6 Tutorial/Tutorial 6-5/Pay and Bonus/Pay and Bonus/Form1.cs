@@ -24,12 +24,42 @@ namespace Pay_and_Bonus
         // it in the arguments (passed by reference). If the conversion
         // is successful, the method returns true. Otherwise it returns
         // false.
-        
+
 
         private void calculateButton_Click(object sender, EventArgs e)
         {
-           
+            decimal grossPay = 0m;
+            decimal bonus = 0m;
+            decimal contrubution = 0m;
+
+            if (inputIsValid(ref grossPay, ref bonus))
+            {
+                contrubution = (grossPay + bonus) * CONTRIB_RATE;
+                contributionLabel.Text = contrubution.ToString("c");
+            }
         }
+
+        private bool inputIsValid(ref decimal grossPay, ref decimal bonus)
+        {
+            if (decimal.TryParse(grossPayTextBox.Text, out grossPay))
+            {
+                if (decimal.TryParse(bonusTextBox.Text, out bonus))
+                {
+                    return true;
+                }
+                else
+                {
+                    MessageBox.Show("錯誤");
+                    return false;
+                }
+            }
+            else
+            {
+                MessageBox.Show("錯誤");
+                return false;
+            }
+        }
+
 
         private void exitButton_Click(object sender, EventArgs e)
         {

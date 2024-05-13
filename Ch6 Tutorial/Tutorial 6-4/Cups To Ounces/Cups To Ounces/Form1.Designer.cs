@@ -41,9 +41,10 @@
             // 
             this.bannerLabel.AutoSize = true;
             this.bannerLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bannerLabel.Location = new System.Drawing.Point(20, 15);
+            this.bannerLabel.Location = new System.Drawing.Point(30, 21);
+            this.bannerLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.bannerLabel.Name = "bannerLabel";
-            this.bannerLabel.Size = new System.Drawing.Size(225, 16);
+            this.bannerLabel.Size = new System.Drawing.Size(322, 25);
             this.bannerLabel.TabIndex = 0;
             this.bannerLabel.Text = "Cups to Fluid Ounces Converter";
             // 
@@ -51,42 +52,47 @@
             // 
             this.cupsPromptLabel.AutoSize = true;
             this.cupsPromptLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.cupsPromptLabel.Location = new System.Drawing.Point(94, 47);
+            this.cupsPromptLabel.Location = new System.Drawing.Point(141, 65);
+            this.cupsPromptLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.cupsPromptLabel.Name = "cupsPromptLabel";
-            this.cupsPromptLabel.Size = new System.Drawing.Size(34, 13);
+            this.cupsPromptLabel.Size = new System.Drawing.Size(53, 20);
             this.cupsPromptLabel.TabIndex = 1;
             this.cupsPromptLabel.Text = "Cups:";
             // 
             // cupsTextBox
             // 
-            this.cupsTextBox.Location = new System.Drawing.Point(134, 44);
+            this.cupsTextBox.Location = new System.Drawing.Point(201, 61);
+            this.cupsTextBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.cupsTextBox.Name = "cupsTextBox";
-            this.cupsTextBox.Size = new System.Drawing.Size(74, 20);
+            this.cupsTextBox.Size = new System.Drawing.Size(109, 29);
             this.cupsTextBox.TabIndex = 2;
             // 
             // ouncesLabel
             // 
             this.ouncesLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.ouncesLabel.Location = new System.Drawing.Point(134, 72);
+            this.ouncesLabel.Location = new System.Drawing.Point(201, 100);
+            this.ouncesLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.ouncesLabel.Name = "ouncesLabel";
-            this.ouncesLabel.Size = new System.Drawing.Size(74, 23);
+            this.ouncesLabel.Size = new System.Drawing.Size(110, 31);
             this.ouncesLabel.TabIndex = 3;
             this.ouncesLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // outputDescriptionLabel
             // 
             this.outputDescriptionLabel.AutoSize = true;
-            this.outputDescriptionLabel.Location = new System.Drawing.Point(56, 77);
+            this.outputDescriptionLabel.Location = new System.Drawing.Point(84, 107);
+            this.outputDescriptionLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.outputDescriptionLabel.Name = "outputDescriptionLabel";
-            this.outputDescriptionLabel.Size = new System.Drawing.Size(72, 13);
+            this.outputDescriptionLabel.Size = new System.Drawing.Size(104, 18);
             this.outputDescriptionLabel.TabIndex = 4;
             this.outputDescriptionLabel.Text = "Fluid Ounces:";
             // 
             // convertButton
             // 
-            this.convertButton.Location = new System.Drawing.Point(54, 117);
+            this.convertButton.Location = new System.Drawing.Point(81, 162);
+            this.convertButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.convertButton.Name = "convertButton";
-            this.convertButton.Size = new System.Drawing.Size(75, 23);
+            this.convertButton.Size = new System.Drawing.Size(112, 32);
             this.convertButton.TabIndex = 5;
             this.convertButton.Text = "Convert";
             this.convertButton.UseVisualStyleBackColor = true;
@@ -94,9 +100,10 @@
             // 
             // exitButton
             // 
-            this.exitButton.Location = new System.Drawing.Point(135, 117);
+            this.exitButton.Location = new System.Drawing.Point(202, 162);
+            this.exitButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.exitButton.Name = "exitButton";
-            this.exitButton.Size = new System.Drawing.Size(75, 23);
+            this.exitButton.Size = new System.Drawing.Size(112, 32);
             this.exitButton.TabIndex = 6;
             this.exitButton.Text = "Exit";
             this.exitButton.UseVisualStyleBackColor = true;
@@ -104,9 +111,9 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(265, 154);
+            this.ClientSize = new System.Drawing.Size(398, 213);
             this.Controls.Add(this.exitButton);
             this.Controls.Add(this.convertButton);
             this.Controls.Add(this.outputDescriptionLabel);
@@ -114,6 +121,7 @@
             this.Controls.Add(this.cupsTextBox);
             this.Controls.Add(this.cupsPromptLabel);
             this.Controls.Add(this.bannerLabel);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "Cups To Ounces";
             this.ResumeLayout(false);

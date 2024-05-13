@@ -25,11 +25,66 @@ namespace North_America
         // The GetCountries method accpets a filename as an
         // argument. It opens the specified file and displays
         // its contents in the countriesListBox control.
-        
+
 
         private void getCountriesButton_Click(object sender, EventArgs e)
         {
-            
+            string filename = "";
+
+            filename = GetFileNamebyReturn();
+            //GetFileNamebyReturn();
+
+            GetCountries(filename);
+        }
+
+        private string GetFileNamebyReturn()
+        {
+            string selectedFile;
+            if (openFile.ShowDialog() == DialogResult.OK)
+            {
+                selectedFile = openFile.FileName;
+            }
+            else
+            {
+                selectedFile = "";
+            }
+            return selectedFile;
+        }
+
+        private void GetFileName(ref string selectedFile)
+        {
+            if (openFile.ShowDialog() == DialogResult.OK)
+            {
+                selectedFile = openFile.FileName;
+            }
+            else
+            {
+                selectedFile = "";
+            }
+        }
+
+        private void GetCountries(string filename)
+        {
+            try
+            {
+                string countryName;
+                StreamReader inputFile;
+                inputFile = File.OpenText(filename);
+
+                countriesListBox.Items.Clear();
+
+                while (!inputFile.EndOfStream)
+                {
+                    countryName = inputFile.ReadLine();
+                    countriesListBox.Items.Add(countriesListBox);
+
+                }
+                inputFile.Close();
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show(e.Message);
+            }
         }
 
         private void exitButton_Click(object sender, EventArgs e)

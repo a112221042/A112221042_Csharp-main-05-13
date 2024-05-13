@@ -31,3 +31,13 @@ D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-3\No
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-3\North America\North America\obj\x86\Debug\North_America.Form1.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-3\North America\North America\obj\x86\Debug\North_America.Properties.Resources.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 06\Tutorial 6-3\North America\North America\obj\x86\Debug\North America.csproj.GenerateResource.Cache
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-3\North America\North America\bin\Debug\North America.exe.config
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-3\North America\North America\bin\Debug\North America.exe
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-3\North America\North America\bin\Debug\North America.pdb
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-3\North America\North America\obj\x86\Debug\North America.csproj.AssemblyReference.cache
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-3\North America\North America\obj\x86\Debug\North_America.Form1.resources
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-3\North America\North America\obj\x86\Debug\North_America.Properties.Resources.resources
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-3\North America\North America\obj\x86\Debug\North America.csproj.GenerateResource.cache
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-3\North America\North America\obj\x86\Debug\North America.csproj.CoreCompileInputs.cache
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-3\North America\North America\obj\x86\Debug\North America.exe
+C:\Users\m306\Desktop\A112221042_Csharp-main\Ch6 Tutorial\Tutorial 6-3\North America\North America\obj\x86\Debug\North America.pdb
